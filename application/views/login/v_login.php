@@ -123,7 +123,7 @@
         let formElem = $("#login");
         let formdata = new FormData(formElem[0]);
         $.ajax({
-            "url": "<?php echo site_url('auth/verification') ?>",
+            "url": "<?php echo site_url('Auth/Verification') ?>",
             "method": "POST",
             "data": formdata,
             "dataType": "json",

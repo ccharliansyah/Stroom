@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') or exit('No direct script access allowed');
 
-class auth extends CI_Controller
+class Auth extends CI_Controller
 {
 
 	public function __construct()
@@ -19,7 +19,7 @@ class auth extends CI_Controller
 
 	}
 
-	public function verification()
+	public function Verification()
 	{
 
 		$user = $this->input->post('user-name');

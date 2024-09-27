@@ -11,11 +11,16 @@ class Auth extends CI_Controller
 
 	public function index()
 	{
-		if ($this->session->userdata('logged_')) {
-			redirect('dashboard');
-		} else {
-			$this->load->view('login/v_login');
-		}
+		$newdata = array(
+			'logged_' => true,
+			'ID' => "Charlie",
+			'Nama' => "Charlie",
+		);
+
+		$this->session->set_userdata($newdata);
+
+		$data['nav'] = 0;
+		$this->load->view('dashboard', $data);
 
 	}
 

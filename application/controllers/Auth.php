@@ -19,7 +19,7 @@ class Auth extends CI_Controller
 
 	}
 
-	public function Verification()
+	public function verification()
 	{
 
 		$user = $this->input->post('user-name');

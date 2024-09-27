@@ -23,6 +23,9 @@
 
   <link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>assets/vendors/css/extensions/toastr.css">
   <!-- END VENDOR CSS-->
+  <!-- BEGIN MODERN CSS-->
+  <link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>assets/css/app.css">
+  <!-- END MODERN CSS-->
   <!-- BEGIN Page Level CSS-->
   <link rel="stylesheet" type="text/css"
     href="<?php echo base_url() ?>assets/css/core/menu/menu-types/horizontal-menu.css">

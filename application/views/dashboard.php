@@ -17,8 +17,8 @@
                         <div class="card-body">
                           <div class="media d-flex">
                             <div class="media-body text-left">
-                              <h3 class="success">64.89 %</h3>
-                              <span>Conversion Rate</span>
+                              <h3 class="success">12,67 %</h3>
+                              <span>Efficiency</span>
                             </div>
                             <div class="align-self-center">
                               <i class="icon-pie-chart success font-large-2 float-right"></i>
@@ -37,8 +37,8 @@
                               <i class="icon-graph success font-large-2 float-left"></i>
                             </div>
                             <div class="media-body text-right">
-                              <h3 class="success">64.89 %</h3>
-                              <span>Bounce Rate</span>
+                              <h3 class="success">45°</h3>
+                              <span>Tilting</span>
                             </div>
                           </div>
                         </div>
@@ -51,8 +51,8 @@
                         <div class="card-body">
                           <div class="media d-flex">
                             <div class="media-body text-left">
-                              <h3 class="success">64.89 %</h3>
-                              <span>Energy Rate</span>
+                              <h3 class="success">30°</h3>
+                              <span>Azimuth Angle</span>
                             </div>
                             <div class="align-self-center">
                               <i class="icon-cup success font-large-2 float-right"></i>
@@ -76,7 +76,7 @@
                         <div class="p-1 text-center">
                           <div>
                             <h3 class="display-4 darken-1 success">34,879</h3>
-                            <span class="blue-grey darken-1">Total Energy</span>
+                            <span class="blue-grey darken-1">Total Energy Used</span>
                           </div>
                           <div class="card-content">
                             <div id="morris-likes" style="height:165px;"></div>
@@ -102,7 +102,7 @@
           <div class="col-lg-6 col-md-12 col-sm-12 border-right-blue-grey border-right-lighten-5">
             <div class="card text-center">
               <div class="card-header mb-2">
-                <span>Energy EBT</span>
+                <span>Total Clean Energy</span>
                 <h3 class="display-4 success darken-1">24,879</h3>
               </div>
               <div class="card-content">
@@ -111,11 +111,11 @@
                   data-readOnly="true" data-fgColor="#28D094" data-knob-icon="icon-support">
                 <ul class="list-inline clearfix mt-2">
                   <li class="border-right-blue-grey border-right-lighten-2 pr-2">
-                    <h1 class="blue-grey darken-1 text-bold-400">95%</h1>
+                    <h1 class="blue-grey darken-1 text-bold-400">12%</h1>
                     <span class="success"><i class="la la-caret-up"></i> Positive</span>
                   </li>
                   <li class="pl-2">
-                    <h1 class="blue-grey darken-1 text-bold-400">5%</h1>
+                    <h1 class="blue-grey darken-1 text-bold-400">88%</h1>
                     <span class="danger darken-2"><i class="la la-caret-down"></i> Negative</span>
                   </li>
                 </ul>
@@ -132,8 +132,8 @@
                       <div id="sp-stacked-bar-total-sales"></div>
                     </div>
                     <div class="media-body media-right text-right">
-                      <h3 class="text-success">45,668</h3>
-                      <span class="text-muted">Energy Konvensional</span>
+                      <h3 class="text-success">1,000 Wp</h3>
+                      <span class="text-muted">Installed Capacity</span>
                     </div>
                   </div>
                 </div>
@@ -146,8 +146,8 @@
                 <div class="card-body">
                   <div class="media d-flex">
                     <div class="media-body">
-                      <h3 class="text-success">5,668</h3>
-                      <span class="text-muted">Energy EBT</span>
+                      <h3 class="text-success">1500 Kwh/m2</h3>
+                      <span class="text-muted">Expected Solar irradiance</span>
                     </div>
                     <div class="align-self-center">
                       <div id="sp-tristate-bar-total-sales"></div>
@@ -207,7 +207,14 @@
                 </div>
               </div>
               <div class="card-footer border-top-blue-grey border-top-lighten-5 text-muted">
-                <span class="float-left">1 day ago</span>
+                <span class="float-left">
+                  <?php
+                  $tomorrow = date("d-M-Y", time() - (86400 * 7));
+                  echo "Forecasted (H-7 Days) : <strong>";
+                  echo $tomorrow;
+                  echo "</strong>";
+                  ?>
+                </span>
                 <span class="tags float-right">
                   <span class="badge badge-pill badge-success">Update</span>
                 </span>
@@ -283,7 +290,12 @@
                 </div>
               </div>
               <div class="card-footer border-top-blue-grey border-top-lighten-5 text-muted">
-                <span class="float-left">Realtime</span>
+                <span class="float-left"> <?php
+                $tomorrow = date("d-M-Y h:m:s", time());
+                echo "Realtime : <strong>";
+                echo $tomorrow;
+                echo "</strong>";
+                ?></span>
                 <span class="tags float-right">
                   <span class="badge badge-pill badge-success">Update</span>
                 </span>
@@ -490,7 +502,7 @@
         pointBorderWidth: 3,
         pointRadius: 6,
       }, {
-        label: "Energy",
+        label: "Generated Energy",
         data: [12, 10, 25, 15, 35, 22, 42, 28, 50, 32, 58, 28],
         lineTension: 0,
         fill: false,

@@ -1,0 +1,1462 @@
+[
+    {
+        "Date": "2024-10-01",
+        "Predicted_Solar_Irradiance": 30.724837371392326
+    },
+    {
+        "Date": "2024-10-02",
+        "Predicted_Solar_Irradiance": 25.52450882824361
+    },
+    {
+        "Date": "2024-10-03",
+        "Predicted_Solar_Irradiance": 22.981746621280607
+    },
+    {
+        "Date": "2024-10-04",
+        "Predicted_Solar_Irradiance": 21.45841677318417
+    },
+    {
+        "Date": "2024-10-05",
+        "Predicted_Solar_Irradiance": 20.597315455139253
+    },
+    {
+        "Date": "2024-10-06",
+        "Predicted_Solar_Irradiance": 19.90620435546556
+    },
+    {
+        "Date": "2024-10-07",
+        "Predicted_Solar_Irradiance": 19.359268885106985
+    },
+    {
+        "Date": "2024-10-08",
+        "Predicted_Solar_Irradiance": 18.929905442727517
+    },
+    {
+        "Date": "2024-10-09",
+        "Predicted_Solar_Irradiance": 18.590097380342172
+    },
+    {
+        "Date": "2024-10-10",
+        "Predicted_Solar_Irradiance": 18.290795605116642
+    },
+    {
+        "Date": "2024-10-11",
+        "Predicted_Solar_Irradiance": 18.017970407378954
+    },
+    {
+        "Date": "2024-10-12",
+        "Predicted_Solar_Irradiance": 17.765093708379197
+    },
+    {
+        "Date": "2024-10-13",
+        "Predicted_Solar_Irradiance": 17.53047692093112
+    },
+    {
+        "Date": "2024-10-14",
+        "Predicted_Solar_Irradiance": 17.313635087539907
+    },
+    {
+        "Date": "2024-10-15",
+        "Predicted_Solar_Irradiance": 17.1152611217547
+    },
+    {
+        "Date": "2024-10-16",
+        "Predicted_Solar_Irradiance": 16.93466315177872
+    },
+    {
+        "Date": "2024-10-17",
+        "Predicted_Solar_Irradiance": 16.770249496851932
+    },
+    {
+        "Date": "2024-10-18",
+        "Predicted_Solar_Irradiance": 16.62013801040726
+    },
+    {
+        "Date": "2024-10-19",
+        "Predicted_Solar_Irradiance": 16.482624089897755
+    },
+    {
+        "Date": "2024-10-20",
+        "Predicted_Solar_Irradiance": 16.35625751769031
+    },
+    {
+        "Date": "2024-10-21",
+        "Predicted_Solar_Irradiance": 16.23989516642665
+    },
+    {
+        "Date": "2024-10-22",
+        "Predicted_Solar_Irradiance": 16.132636965871825
+    },
+    {
+        "Date": "2024-10-23",
+        "Predicted_Solar_Irradiance": 16.033733358569663
+    },
+    {
+        "Date": "2024-10-24",
+        "Predicted_Solar_Irradiance": 15.942512193447214
+    },
+    {
+        "Date": "2024-10-25",
+        "Predicted_Solar_Irradiance": 15.858349817332652
+    },
+    {
+        "Date": "2024-10-26",
+        "Predicted_Solar_Irradiance": 15.78066293040753
+    },
+    {
+        "Date": "2024-10-27",
+        "Predicted_Solar_Irradiance": 15.708910677773744
+    },
+    {
+        "Date": "2024-10-28",
+        "Predicted_Solar_Irradiance": 15.642598659850933
+    },
+    {
+        "Date": "2024-10-29",
+        "Predicted_Solar_Irradiance": 15.581279682405338
+    },
+    {
+        "Date": "2024-10-30",
+        "Predicted_Solar_Irradiance": 15.524550592255395
+    },
+    {
+        "Date": "2024-10-31",
+        "Predicted_Solar_Irradiance": 15.472046900182278
+    },
+    {
+        "Date": "2024-11-01",
+        "Predicted_Solar_Irradiance": 15.423437758506381
+    },
+    {
+        "Date": "2024-11-02",
+        "Predicted_Solar_Irradiance": 15.378420789462012
+    },
+    {
+        "Date": "2024-11-03",
+        "Predicted_Solar_Irradiance": 15.33671896998635
+    },
+    {
+        "Date": "2024-11-04",
+        "Predicted_Solar_Irradiance": 15.298077872732392
+    },
+    {
+        "Date": "2024-11-05",
+        "Predicted_Solar_Irradiance": 15.262263885584304
+    },
+    {
+        "Date": "2024-11-06",
+        "Predicted_Solar_Irradiance": 15.22906229547685
+    },
+    {
+        "Date": "2024-11-07",
+        "Predicted_Solar_Irradiance": 15.198275719656507
+    },
+    {
+        "Date": "2024-11-08",
+        "Predicted_Solar_Irradiance": 15.169722686940133
+    },
+    {
+        "Date": "2024-11-09",
+        "Predicted_Solar_Irradiance": 15.14323640724848
+    },
+    {
+        "Date": "2024-11-10",
+        "Predicted_Solar_Irradiance": 15.118663254791912
+    },
+    {
+        "Date": "2024-11-11",
+        "Predicted_Solar_Irradiance": 15.095861404093895
+    },
+    {
+        "Date": "2024-11-12",
+        "Predicted_Solar_Irradiance": 15.074700164976278
+    },
+    {
+        "Date": "2024-11-13",
+        "Predicted_Solar_Irradiance": 15.055058897922919
+    },
+    {
+        "Date": "2024-11-14",
+        "Predicted_Solar_Irradiance": 15.036826269556613
+    },
+    {
+        "Date": "2024-11-15",
+        "Predicted_Solar_Irradiance": 15.019899298387415
+    },
+    {
+        "Date": "2024-11-16",
+        "Predicted_Solar_Irradiance": 15.004182887431071
+    },
+    {
+        "Date": "2024-11-17",
+        "Predicted_Solar_Irradiance": 14.98958902046833
+    },
+    {
+        "Date": "2024-11-18",
+        "Predicted_Solar_Irradiance": 14.976036243332473
+    },
+    {
+        "Date": "2024-11-19",
+        "Predicted_Solar_Irradiance": 14.96344920811626
+    },
+    {
+        "Date": "2024-11-20",
+        "Predicted_Solar_Irradiance": 14.951758255009324
+    },
+    {
+        "Date": "2024-11-21",
+        "Predicted_Solar_Irradiance": 14.940898759567816
+    },
+    {
+        "Date": "2024-11-22",
+        "Predicted_Solar_Irradiance": 14.930810911996446
+    },
+    {
+        "Date": "2024-11-23",
+        "Predicted_Solar_Irradiance": 14.921439346852878
+    },
+    {
+        "Date": "2024-11-24",
+        "Predicted_Solar_Irradiance": 14.912732743376878
+    },
+    {
+        "Date": "2024-11-25",
+        "Predicted_Solar_Irradiance": 14.904643460629117
+    },
+    {
+        "Date": "2024-11-26",
+        "Predicted_Solar_Irradiance": 14.897127378586362
+    },
+    {
+        "Date": "2024-11-27",
+        "Predicted_Solar_Irradiance": 14.890143494712788
+    },
+    {
+        "Date": "2024-11-28",
+        "Predicted_Solar_Irradiance": 14.883653870603794
+    },
+    {
+        "Date": "2024-11-29",
+        "Predicted_Solar_Irradiance": 14.877623291562486
+    },
+    {
+        "Date": "2024-11-30",
+        "Predicted_Solar_Irradiance": 14.872019126483067
+    },
+    {
+        "Date": "2024-12-01",
+        "Predicted_Solar_Irradiance": 14.86681109275034
+    },
+    {
+        "Date": "2024-12-02",
+        "Predicted_Solar_Irradiance": 14.86197090765424
+    },
+    {
+        "Date": "2024-12-03",
+        "Predicted_Solar_Irradiance": 14.857472532712961
+    },
+    {
+        "Date": "2024-12-04",
+        "Predicted_Solar_Irradiance": 14.853291679631425
+    },
+    {
+        "Date": "2024-12-05",
+        "Predicted_Solar_Irradiance": 14.849405867184004
+    },
+    {
+        "Date": "2024-12-06",
+        "Predicted_Solar_Irradiance": 14.845794246923234
+    },
+    {
+        "Date": "2024-12-07",
+        "Predicted_Solar_Irradiance": 14.842437311914466
+    },
+    {
+        "Date": "2024-12-08",
+        "Predicted_Solar_Irradiance": 14.839317083823317
+    },
+    {
+        "Date": "2024-12-09",
+        "Predicted_Solar_Irradiance": 14.836416750619804
+    },
+    {
+        "Date": "2024-12-10",
+        "Predicted_Solar_Irradiance": 14.833720805356677
+    },
+    {
+        "Date": "2024-12-11",
+        "Predicted_Solar_Irradiance": 14.831214815380733
+    },
+    {
+        "Date": "2024-12-12",
+        "Predicted_Solar_Irradiance": 14.828885326786377
+    },
+    {
+        "Date": "2024-12-13",
+        "Predicted_Solar_Irradiance": 14.826719861784994
+    },
+    {
+        "Date": "2024-12-14",
+        "Predicted_Solar_Irradiance": 14.824706929604517
+    },
+    {
+        "Date": "2024-12-15",
+        "Predicted_Solar_Irradiance": 14.822835774060394
+    },
+    {
+        "Date": "2024-12-16",
+        "Predicted_Solar_Irradiance": 14.821096420579295
+    },
+    {
+        "Date": "2024-12-17",
+        "Predicted_Solar_Irradiance": 14.819479472290723
+    },
+    {
+        "Date": "2024-12-18",
+        "Predicted_Solar_Irradiance": 14.817976229857805
+    },
+    {
+        "Date": "2024-12-19",
+        "Predicted_Solar_Irradiance": 14.816578809588322
+    },
+    {
+        "Date": "2024-12-20",
+        "Predicted_Solar_Irradiance": 14.815279705401665
+    },
+    {
+        "Date": "2024-12-21",
+        "Predicted_Solar_Irradiance": 14.814071990986278
+    },
+    {
+        "Date": "2024-12-22",
+        "Predicted_Solar_Irradiance": 14.812949247070662
+    },
+    {
+        "Date": "2024-12-23",
+        "Predicted_Solar_Irradiance": 14.81190540457392
+    },
+    {
+        "Date": "2024-12-24",
+        "Predicted_Solar_Irradiance": 14.810935033357723
+    },
+    {
+        "Date": "2024-12-25",
+        "Predicted_Solar_Irradiance": 14.810032982124866
+    },
+    {
+        "Date": "2024-12-26",
+        "Predicted_Solar_Irradiance": 14.809194350153206
+    },
+    {
+        "Date": "2024-12-27",
+        "Predicted_Solar_Irradiance": 14.808414681969552
+    },
+    {
+        "Date": "2024-12-28",
+        "Predicted_Solar_Irradiance": 14.807689791377001
+    },
+    {
+        "Date": "2024-12-29",
+        "Predicted_Solar_Irradiance": 14.80701583031211
+    },
+    {
+        "Date": "2024-12-30",
+        "Predicted_Solar_Irradiance": 14.806389295277597
+    },
+    {
+        "Date": "2024-12-31",
+        "Predicted_Solar_Irradiance": 14.805806883020693
+    },
+    {
+        "Date": "2025-01-01",
+        "Predicted_Solar_Irradiance": 14.805265433060683
+    },
+    {
+        "Date": "2025-01-02",
+        "Predicted_Solar_Irradiance": 14.804761966866963
+    },
+    {
+        "Date": "2025-01-03",
+        "Predicted_Solar_Irradiance": 14.804293911319874
+    },
+    {
+        "Date": "2025-01-04",
+        "Predicted_Solar_Irradiance": 14.803858758657086
+    },
+    {
+        "Date": "2025-01-05",
+        "Predicted_Solar_Irradiance": 14.803454160844183
+    },
+    {
+        "Date": "2025-01-06",
+        "Predicted_Solar_Irradiance": 14.803078025730798
+    },
+    {
+        "Date": "2025-01-07",
+        "Predicted_Solar_Irradiance": 14.80272838807565
+    },
+    {
+        "Date": "2025-01-08",
+        "Predicted_Solar_Irradiance": 14.802403318595097
+    },
+    {
+        "Date": "2025-01-09",
+        "Predicted_Solar_Irradiance": 14.802101097847881
+    },
+    {
+        "Date": "2025-01-10",
+        "Predicted_Solar_Irradiance": 14.801820107015672
+    },
+    {
+        "Date": "2025-01-11",
+        "Predicted_Solar_Irradiance": 14.801558817777106
+    },
+    {
+        "Date": "2025-01-12",
+        "Predicted_Solar_Irradiance": 14.801315930521241
+    },
+    {
+        "Date": "2025-01-13",
+        "Predicted_Solar_Irradiance": 14.801090059770956
+    },
+    {
+        "Date": "2025-01-14",
+        "Predicted_Solar_Irradiance": 14.800880066717824
+    },
+    {
+        "Date": "2025-01-15",
+        "Predicted_Solar_Irradiance": 14.800684838757093
+    },
+    {
+        "Date": "2025-01-16",
+        "Predicted_Solar_Irradiance": 14.800503371360762
+    },
+    {
+        "Date": "2025-01-17",
+        "Predicted_Solar_Irradiance": 14.800334696791069
+    },
+    {
+        "Date": "2025-01-18",
+        "Predicted_Solar_Irradiance": 14.800177809547407
+    },
+    {
+        "Date": "2025-01-19",
+        "Predicted_Solar_Irradiance": 14.800031882986488
+    },
+    {
+        "Date": "2025-01-20",
+        "Predicted_Solar_Irradiance": 14.799896253433644
+    },
+    {
+        "Date": "2025-01-21",
+        "Predicted_Solar_Irradiance": 14.799770139615461
+    },
+    {
+        "Date": "2025-01-22",
+        "Predicted_Solar_Irradiance": 14.799652953151337
+    },
+    {
+        "Date": "2025-01-23",
+        "Predicted_Solar_Irradiance": 14.799543976057237
+    },
+    {
+        "Date": "2025-01-24",
+        "Predicted_Solar_Irradiance": 14.79944265023856
+    },
+    {
+        "Date": "2025-01-25",
+        "Predicted_Solar_Irradiance": 14.799348467475312
+    },
+    {
+        "Date": "2025-01-26",
+        "Predicted_Solar_Irradiance": 14.799260857330395
+    },
+    {
+        "Date": "2025-01-27",
+        "Predicted_Solar_Irradiance": 14.799179399903437
+    },
+    {
+        "Date": "2025-01-28",
+        "Predicted_Solar_Irradiance": 14.799103681869
+    },
+    {
+        "Date": "2025-01-29",
+        "Predicted_Solar_Irradiance": 14.79903334896673
+    },
+    {
+        "Date": "2025-01-30",
+        "Predicted_Solar_Irradiance": 14.798967936053415
+    },
+    {
+        "Date": "2025-01-31",
+        "Predicted_Solar_Irradiance": 14.798907083158937
+    },
+    {
+        "Date": "2025-02-01",
+        "Predicted_Solar_Irradiance": 14.79885045108945
+    },
+    {
+        "Date": "2025-02-02",
+        "Predicted_Solar_Irradiance": 14.798797760333144
+    },
+    {
+        "Date": "2025-02-03",
+        "Predicted_Solar_Irradiance": 14.798748846300512
+    },
+    {
+        "Date": "2025-02-04",
+        "Predicted_Solar_Irradiance": 14.798703383771667
+    },
+    {
+        "Date": "2025-02-05",
+        "Predicted_Solar_Irradiance": 14.798661097711118
+    },
+    {
+        "Date": "2025-02-06",
+        "Predicted_Solar_Irradiance": 14.798621842021092
+    },
+    {
+        "Date": "2025-02-07",
+        "Predicted_Solar_Irradiance": 14.798585374711664
+    },
+    {
+        "Date": "2025-02-08",
+        "Predicted_Solar_Irradiance": 14.798551415578558
+    },
+    {
+        "Date": "2025-02-09",
+        "Predicted_Solar_Irradiance": 14.798519833803752
+    },
+    {
+        "Date": "2025-02-10",
+        "Predicted_Solar_Irradiance": 14.798490419933998
+    },
+    {
+        "Date": "2025-02-11",
+        "Predicted_Solar_Irradiance": 14.798463079452048
+    },
+    {
+        "Date": "2025-02-12",
+        "Predicted_Solar_Irradiance": 14.798437691537004
+    },
+    {
+        "Date": "2025-02-13",
+        "Predicted_Solar_Irradiance": 14.798414062954961
+    },
+    {
+        "Date": "2025-02-14",
+        "Predicted_Solar_Irradiance": 14.798392131654097
+    },
+    {
+        "Date": "2025-02-15",
+        "Predicted_Solar_Irradiance": 14.798371737859483
+    },
+    {
+        "Date": "2025-02-16",
+        "Predicted_Solar_Irradiance": 14.798352758993587
+    },
+    {
+        "Date": "2025-02-17",
+        "Predicted_Solar_Irradiance": 14.798335085855115
+    },
+    {
+        "Date": "2025-02-18",
+        "Predicted_Solar_Irradiance": 14.798318686245565
+    },
+    {
+        "Date": "2025-02-19",
+        "Predicted_Solar_Irradiance": 14.798303499023575
+    },
+    {
+        "Date": "2025-02-20",
+        "Predicted_Solar_Irradiance": 14.798289311727927
+    },
+    {
+        "Date": "2025-02-21",
+        "Predicted_Solar_Irradiance": 14.798276116477226
+    },
+    {
+        "Date": "2025-02-22",
+        "Predicted_Solar_Irradiance": 14.79826386338786
+    },
+    {
+        "Date": "2025-02-23",
+        "Predicted_Solar_Irradiance": 14.798252480422747
+    },
+    {
+        "Date": "2025-02-24",
+        "Predicted_Solar_Irradiance": 14.7982418811807
+    },
+    {
+        "Date": "2025-02-25",
+        "Predicted_Solar_Irradiance": 14.798232080382618
+    },
+    {
+        "Date": "2025-02-26",
+        "Predicted_Solar_Irradiance": 14.798222952735316
+    },
+    {
+        "Date": "2025-02-27",
+        "Predicted_Solar_Irradiance": 14.79821436852923
+    },
+    {
+        "Date": "2025-02-28",
+        "Predicted_Solar_Irradiance": 14.79820644127716
+    },
+    {
+        "Date": "2025-03-01",
+        "Predicted_Solar_Irradiance": 14.79819910731301
+    },
+    {
+        "Date": "2025-03-02",
+        "Predicted_Solar_Irradiance": 14.798192263339956
+    },
+    {
+        "Date": "2025-03-03",
+        "Predicted_Solar_Irradiance": 14.798185947994483
+    },
+    {
+        "Date": "2025-03-04",
+        "Predicted_Solar_Irradiance": 14.798180026002797
+    },
+    {
+        "Date": "2025-03-05",
+        "Predicted_Solar_Irradiance": 14.798174530510863
+    },
+    {
+        "Date": "2025-03-06",
+        "Predicted_Solar_Irradiance": 14.798169410953506
+    },
+    {
+        "Date": "2025-03-07",
+        "Predicted_Solar_Irradiance": 14.798164673943077
+    },
+    {
+        "Date": "2025-03-08",
+        "Predicted_Solar_Irradiance": 14.798160267377284
+    },
+    {
+        "Date": "2025-03-09",
+        "Predicted_Solar_Irradiance": 14.79815611400447
+    },
+    {
+        "Date": "2025-03-10",
+        "Predicted_Solar_Irradiance": 14.798152268640536
+    },
+    {
+        "Date": "2025-03-11",
+        "Predicted_Solar_Irradiance": 14.79814870980475
+    },
+    {
+        "Date": "2025-03-12",
+        "Predicted_Solar_Irradiance": 14.798145366695621
+    },
+    {
+        "Date": "2025-03-13",
+        "Predicted_Solar_Irradiance": 14.798142284172073
+    },
+    {
+        "Date": "2025-03-14",
+        "Predicted_Solar_Irradiance": 14.798139469869824
+    },
+    {
+        "Date": "2025-03-15",
+        "Predicted_Solar_Irradiance": 14.798136835684474
+    },
+    {
+        "Date": "2025-03-16",
+        "Predicted_Solar_Irradiance": 14.798134384357027
+    },
+    {
+        "Date": "2025-03-17",
+        "Predicted_Solar_Irradiance": 14.7981321367959
+    },
+    {
+        "Date": "2025-03-18",
+        "Predicted_Solar_Irradiance": 14.798130020659144
+    },
+    {
+        "Date": "2025-03-19",
+        "Predicted_Solar_Irradiance": 14.798128056492601
+    },
+    {
+        "Date": "2025-03-20",
+        "Predicted_Solar_Irradiance": 14.798126218385818
+    },
+    {
+        "Date": "2025-03-21",
+        "Predicted_Solar_Irradiance": 14.79812448483446
+    },
+    {
+        "Date": "2025-03-22",
+        "Predicted_Solar_Irradiance": 14.798122836818678
+    },
+    {
+        "Date": "2025-03-23",
+        "Predicted_Solar_Irradiance": 14.798121361586311
+    },
+    {
+        "Date": "2025-03-24",
+        "Predicted_Solar_Irradiance": 14.798120013074993
+    },
+    {
+        "Date": "2025-03-25",
+        "Predicted_Solar_Irradiance": 14.798118734852196
+    },
+    {
+        "Date": "2025-03-26",
+        "Predicted_Solar_Irradiance": 14.798117582489454
+    },
+    {
+        "Date": "2025-03-27",
+        "Predicted_Solar_Irradiance": 14.798116509178683
+    },
+    {
+        "Date": "2025-03-28",
+        "Predicted_Solar_Irradiance": 14.798115491421356
+    },
+    {
+        "Date": "2025-03-29",
+        "Predicted_Solar_Irradiance": 14.798114478724614
+    },
+    {
+        "Date": "2025-03-30",
+        "Predicted_Solar_Irradiance": 14.798113553347761
+    },
+    {
+        "Date": "2025-03-31",
+        "Predicted_Solar_Irradiance": 14.798112769310535
+    },
+    {
+        "Date": "2025-04-01",
+        "Predicted_Solar_Irradiance": 14.798111988258242
+    },
+    {
+        "Date": "2025-04-02",
+        "Predicted_Solar_Irradiance": 14.798111239414666
+    },
+    {
+        "Date": "2025-04-03",
+        "Predicted_Solar_Irradiance": 14.798110536973013
+    },
+    {
+        "Date": "2025-04-04",
+        "Predicted_Solar_Irradiance": 14.798109903773295
+    },
+    {
+        "Date": "2025-04-05",
+        "Predicted_Solar_Irradiance": 14.798109327761239
+    },
+    {
+        "Date": "2025-04-06",
+        "Predicted_Solar_Irradiance": 14.798108804953785
+    },
+    {
+        "Date": "2025-04-07",
+        "Predicted_Solar_Irradiance": 14.798108369345101
+    },
+    {
+        "Date": "2025-04-08",
+        "Predicted_Solar_Irradiance": 14.798107946504913
+    },
+    {
+        "Date": "2025-04-09",
+        "Predicted_Solar_Irradiance": 14.79810758362406
+    },
+    {
+        "Date": "2025-04-10",
+        "Predicted_Solar_Irradiance": 14.798107198482214
+    },
+    {
+        "Date": "2025-04-11",
+        "Predicted_Solar_Irradiance": 14.798106871785976
+    },
+    {
+        "Date": "2025-04-12",
+        "Predicted_Solar_Irradiance": 14.798106521290265
+    },
+    {
+        "Date": "2025-04-13",
+        "Predicted_Solar_Irradiance": 14.798106175156477
+    },
+    {
+        "Date": "2025-04-14",
+        "Predicted_Solar_Irradiance": 14.798105845710978
+    },
+    {
+        "Date": "2025-04-15",
+        "Predicted_Solar_Irradiance": 14.798105526330374
+    },
+    {
+        "Date": "2025-04-16",
+        "Predicted_Solar_Irradiance": 14.798105306195836
+    },
+    {
+        "Date": "2025-04-17",
+        "Predicted_Solar_Irradiance": 14.798105184659136
+    },
+    {
+        "Date": "2025-04-18",
+        "Predicted_Solar_Irradiance": 14.798105024829411
+    },
+    {
+        "Date": "2025-04-19",
+        "Predicted_Solar_Irradiance": 14.798104819429625
+    },
+    {
+        "Date": "2025-04-20",
+        "Predicted_Solar_Irradiance": 14.798104587718512
+    },
+    {
+        "Date": "2025-04-21",
+        "Predicted_Solar_Irradiance": 14.798104365429452
+    },
+    {
+        "Date": "2025-04-22",
+        "Predicted_Solar_Irradiance": 14.798104150284217
+    },
+    {
+        "Date": "2025-04-23",
+        "Predicted_Solar_Irradiance": 14.798104040436428
+    },
+    {
+        "Date": "2025-04-24",
+        "Predicted_Solar_Irradiance": 14.798103968230762
+    },
+    {
+        "Date": "2025-04-25",
+        "Predicted_Solar_Irradiance": 14.798103864267304
+    },
+    {
+        "Date": "2025-04-26",
+        "Predicted_Solar_Irradiance": 14.798103743370802
+    },
+    {
+        "Date": "2025-04-27",
+        "Predicted_Solar_Irradiance": 14.798103645799245
+    },
+    {
+        "Date": "2025-04-28",
+        "Predicted_Solar_Irradiance": 14.798103476771772
+    },
+    {
+        "Date": "2025-04-29",
+        "Predicted_Solar_Irradiance": 14.798103267768354
+    },
+    {
+        "Date": "2025-04-30",
+        "Predicted_Solar_Irradiance": 14.79810313564542
+    },
+    {
+        "Date": "2025-05-01",
+        "Predicted_Solar_Irradiance": 14.798103084408737
+    },
+    {
+        "Date": "2025-05-02",
+        "Predicted_Solar_Irradiance": 14.798103005917
+    },
+    {
+        "Date": "2025-05-03",
+        "Predicted_Solar_Irradiance": 14.798102936853255
+    },
+    {
+        "Date": "2025-05-04",
+        "Predicted_Solar_Irradiance": 14.79810288992826
+    },
+    {
+        "Date": "2025-05-05",
+        "Predicted_Solar_Irradiance": 14.798102842233192
+    },
+    {
+        "Date": "2025-05-06",
+        "Predicted_Solar_Irradiance": 14.798102789835113
+    },
+    {
+        "Date": "2025-05-07",
+        "Predicted_Solar_Irradiance": 14.798102722815656
+    },
+    {
+        "Date": "2025-05-08",
+        "Predicted_Solar_Irradiance": 14.798102685802988
+    },
+    {
+        "Date": "2025-05-09",
+        "Predicted_Solar_Irradiance": 14.798102600835293
+    },
+    {
+        "Date": "2025-05-10",
+        "Predicted_Solar_Irradiance": 14.79810259347721
+    },
+    {
+        "Date": "2025-05-11",
+        "Predicted_Solar_Irradiance": 14.798102626358812
+    },
+    {
+        "Date": "2025-05-12",
+        "Predicted_Solar_Irradiance": 14.798102579072562
+    },
+    {
+        "Date": "2025-05-13",
+        "Predicted_Solar_Irradiance": 14.798102495873422
+    },
+    {
+        "Date": "2025-05-14",
+        "Predicted_Solar_Irradiance": 14.798102434471403
+    },
+    {
+        "Date": "2025-05-15",
+        "Predicted_Solar_Irradiance": 14.798102381808107
+    },
+    {
+        "Date": "2025-05-16",
+        "Predicted_Solar_Irradiance": 14.798102355306568
+    },
+    {
+        "Date": "2025-05-17",
+        "Predicted_Solar_Irradiance": 14.798102354275755
+    },
+    {
+        "Date": "2025-05-18",
+        "Predicted_Solar_Irradiance": 14.798102323105653
+    },
+    {
+        "Date": "2025-05-19",
+        "Predicted_Solar_Irradiance": 14.798102278194634
+    },
+    {
+        "Date": "2025-05-20",
+        "Predicted_Solar_Irradiance": 14.798102247384307
+    },
+    {
+        "Date": "2025-05-21",
+        "Predicted_Solar_Irradiance": 14.798102215602384
+    },
+    {
+        "Date": "2025-05-22",
+        "Predicted_Solar_Irradiance": 14.798102198288419
+    },
+    {
+        "Date": "2025-05-23",
+        "Predicted_Solar_Irradiance": 14.798102215601446
+    },
+    {
+        "Date": "2025-05-24",
+        "Predicted_Solar_Irradiance": 14.7981022355266
+    },
+    {
+        "Date": "2025-05-25",
+        "Predicted_Solar_Irradiance": 14.7981022519743
+    },
+    {
+        "Date": "2025-05-26",
+        "Predicted_Solar_Irradiance": 14.798102198637665
+    },
+    {
+        "Date": "2025-05-27",
+        "Predicted_Solar_Irradiance": 14.79810219876174
+    },
+    {
+        "Date": "2025-05-28",
+        "Predicted_Solar_Irradiance": 14.79810220817049
+    },
+    {
+        "Date": "2025-05-29",
+        "Predicted_Solar_Irradiance": 14.798102207653372
+    },
+    {
+        "Date": "2025-05-30",
+        "Predicted_Solar_Irradiance": 14.798102177140535
+    },
+    {
+        "Date": "2025-05-31",
+        "Predicted_Solar_Irradiance": 14.798102135152178
+    },
+    {
+        "Date": "2025-06-01",
+        "Predicted_Solar_Irradiance": 14.798102098315212
+    },
+    {
+        "Date": "2025-06-02",
+        "Predicted_Solar_Irradiance": 14.79810209807674
+    },
+    {
+        "Date": "2025-06-03",
+        "Predicted_Solar_Irradiance": 14.798102042158945
+    },
+    {
+        "Date": "2025-06-04",
+        "Predicted_Solar_Irradiance": 14.798102031348193
+    },
+    {
+        "Date": "2025-06-05",
+        "Predicted_Solar_Irradiance": 14.7981019948364
+    },
+    {
+        "Date": "2025-06-06",
+        "Predicted_Solar_Irradiance": 14.798101984829245
+    },
+    {
+        "Date": "2025-06-07",
+        "Predicted_Solar_Irradiance": 14.798101968451206
+    },
+    {
+        "Date": "2025-06-08",
+        "Predicted_Solar_Irradiance": 14.798101963282704
+    },
+    {
+        "Date": "2025-06-09",
+        "Predicted_Solar_Irradiance": 14.798101933864345
+    },
+    {
+        "Date": "2025-06-10",
+        "Predicted_Solar_Irradiance": 14.798101961304056
+    },
+    {
+        "Date": "2025-06-11",
+        "Predicted_Solar_Irradiance": 14.798101917537139
+    },
+    {
+        "Date": "2025-06-12",
+        "Predicted_Solar_Irradiance": 14.798101882431979
+    },
+    {
+        "Date": "2025-06-13",
+        "Predicted_Solar_Irradiance": 14.798101842470786
+    },
+    {
+        "Date": "2025-06-14",
+        "Predicted_Solar_Irradiance": 14.798101830177046
+    },
+    {
+        "Date": "2025-06-15",
+        "Predicted_Solar_Irradiance": 14.798101837315372
+    },
+    {
+        "Date": "2025-06-16",
+        "Predicted_Solar_Irradiance": 14.798101868020538
+    },
+    {
+        "Date": "2025-06-17",
+        "Predicted_Solar_Irradiance": 14.798101905593327
+    },
+    {
+        "Date": "2025-06-18",
+        "Predicted_Solar_Irradiance": 14.798101924895377
+    },
+    {
+        "Date": "2025-06-19",
+        "Predicted_Solar_Irradiance": 14.7981019240585
+    },
+    {
+        "Date": "2025-06-20",
+        "Predicted_Solar_Irradiance": 14.798101925751524
+    },
+    {
+        "Date": "2025-06-21",
+        "Predicted_Solar_Irradiance": 14.79810188541667
+    },
+    {
+        "Date": "2025-06-22",
+        "Predicted_Solar_Irradiance": 14.798101911928953
+    },
+    {
+        "Date": "2025-06-23",
+        "Predicted_Solar_Irradiance": 14.798101913129486
+    },
+    {
+        "Date": "2025-06-24",
+        "Predicted_Solar_Irradiance": 14.798101894824057
+    },
+    {
+        "Date": "2025-06-25",
+        "Predicted_Solar_Irradiance": 14.798101941192954
+    },
+    {
+        "Date": "2025-06-26",
+        "Predicted_Solar_Irradiance": 14.798101957759428
+    },
+    {
+        "Date": "2025-06-27",
+        "Predicted_Solar_Irradiance": 14.798101928649075
+    },
+    {
+        "Date": "2025-06-28",
+        "Predicted_Solar_Irradiance": 14.798101871542727
+    },
+    {
+        "Date": "2025-06-29",
+        "Predicted_Solar_Irradiance": 14.79810189412737
+    },
+    {
+        "Date": "2025-06-30",
+        "Predicted_Solar_Irradiance": 14.798101915296172
+    },
+    {
+        "Date": "2025-07-01",
+        "Predicted_Solar_Irradiance": 14.798101943921154
+    },
+    {
+        "Date": "2025-07-02",
+        "Predicted_Solar_Irradiance": 14.798101881608318
+    },
+    {
+        "Date": "2025-07-03",
+        "Predicted_Solar_Irradiance": 14.798101896526433
+    },
+    {
+        "Date": "2025-07-04",
+        "Predicted_Solar_Irradiance": 14.798101930807562
+    },
+    {
+        "Date": "2025-07-05",
+        "Predicted_Solar_Irradiance": 14.798101890708338
+    },
+    {
+        "Date": "2025-07-06",
+        "Predicted_Solar_Irradiance": 14.79810188368657
+    },
+    {
+        "Date": "2025-07-07",
+        "Predicted_Solar_Irradiance": 14.798101869722302
+    },
+    {
+        "Date": "2025-07-08",
+        "Predicted_Solar_Irradiance": 14.798101917550426
+    },
+    {
+        "Date": "2025-07-09",
+        "Predicted_Solar_Irradiance": 14.798101897542693
+    },
+    {
+        "Date": "2025-07-10",
+        "Predicted_Solar_Irradiance": 14.798101820187284
+    },
+    {
+        "Date": "2025-07-11",
+        "Predicted_Solar_Irradiance": 14.798101806310584
+    },
+    {
+        "Date": "2025-07-12",
+        "Predicted_Solar_Irradiance": 14.79810188532349
+    },
+    {
+        "Date": "2025-07-13",
+        "Predicted_Solar_Irradiance": 14.798101858304136
+    },
+    {
+        "Date": "2025-07-14",
+        "Predicted_Solar_Irradiance": 14.79810182674899
+    },
+    {
+        "Date": "2025-07-15",
+        "Predicted_Solar_Irradiance": 14.798101798112853
+    },
+    {
+        "Date": "2025-07-16",
+        "Predicted_Solar_Irradiance": 14.798101770842877
+    },
+    {
+        "Date": "2025-07-17",
+        "Predicted_Solar_Irradiance": 14.798101720431106
+    },
+    {
+        "Date": "2025-07-18",
+        "Predicted_Solar_Irradiance": 14.79810169966207
+    },
+    {
+        "Date": "2025-07-19",
+        "Predicted_Solar_Irradiance": 14.798101736951054
+    },
+    {
+        "Date": "2025-07-20",
+        "Predicted_Solar_Irradiance": 14.79810179647717
+    },
+    {
+        "Date": "2025-07-21",
+        "Predicted_Solar_Irradiance": 14.79810177482996
+    },
+    {
+        "Date": "2025-07-22",
+        "Predicted_Solar_Irradiance": 14.798101746104706
+    },
+    {
+        "Date": "2025-07-23",
+        "Predicted_Solar_Irradiance": 14.798101806835305
+    },
+    {
+        "Date": "2025-07-24",
+        "Predicted_Solar_Irradiance": 14.798101834000178
+    },
+    {
+        "Date": "2025-07-25",
+        "Predicted_Solar_Irradiance": 14.798101815698075
+    },
+    {
+        "Date": "2025-07-26",
+        "Predicted_Solar_Irradiance": 14.798101765261677
+    },
+    {
+        "Date": "2025-07-27",
+        "Predicted_Solar_Irradiance": 14.798101759004936
+    },
+    {
+        "Date": "2025-07-28",
+        "Predicted_Solar_Irradiance": 14.79810173476335
+    },
+    {
+        "Date": "2025-07-29",
+        "Predicted_Solar_Irradiance": 14.79810178430148
+    },
+    {
+        "Date": "2025-07-30",
+        "Predicted_Solar_Irradiance": 14.798101843435774
+    },
+    {
+        "Date": "2025-07-31",
+        "Predicted_Solar_Irradiance": 14.798101867758945
+    },
+    {
+        "Date": "2025-08-01",
+        "Predicted_Solar_Irradiance": 14.798101834409835
+    },
+    {
+        "Date": "2025-08-02",
+        "Predicted_Solar_Irradiance": 14.79810185196581
+    },
+    {
+        "Date": "2025-08-03",
+        "Predicted_Solar_Irradiance": 14.798101831021668
+    },
+    {
+        "Date": "2025-08-04",
+        "Predicted_Solar_Irradiance": 14.798101805942522
+    },
+    {
+        "Date": "2025-08-05",
+        "Predicted_Solar_Irradiance": 14.798101767755782
+    },
+    {
+        "Date": "2025-08-06",
+        "Predicted_Solar_Irradiance": 14.79810182072032
+    },
+    {
+        "Date": "2025-08-07",
+        "Predicted_Solar_Irradiance": 14.79810191903151
+    },
+    {
+        "Date": "2025-08-08",
+        "Predicted_Solar_Irradiance": 14.798102002874671
+    },
+    {
+        "Date": "2025-08-09",
+        "Predicted_Solar_Irradiance": 14.79810202228694
+    },
+    {
+        "Date": "2025-08-10",
+        "Predicted_Solar_Irradiance": 14.798102000838014
+    },
+    {
+        "Date": "2025-08-11",
+        "Predicted_Solar_Irradiance": 14.798101952890619
+    },
+    {
+        "Date": "2025-08-12",
+        "Predicted_Solar_Irradiance": 14.798101874158107
+    },
+    {
+        "Date": "2025-08-13",
+        "Predicted_Solar_Irradiance": 14.798101838547595
+    },
+    {
+        "Date": "2025-08-14",
+        "Predicted_Solar_Irradiance": 14.798101865116237
+    },
+    {
+        "Date": "2025-08-15",
+        "Predicted_Solar_Irradiance": 14.798101882107787
+    },
+    {
+        "Date": "2025-08-16",
+        "Predicted_Solar_Irradiance": 14.798101904409563
+    },
+    {
+        "Date": "2025-08-17",
+        "Predicted_Solar_Irradiance": 14.798101913663317
+    },
+    {
+        "Date": "2025-08-18",
+        "Predicted_Solar_Irradiance": 14.798101910699913
+    },
+    {
+        "Date": "2025-08-19",
+        "Predicted_Solar_Irradiance": 14.79810195333674
+    },
+    {
+        "Date": "2025-08-20",
+        "Predicted_Solar_Irradiance": 14.798101940804045
+    },
+    {
+        "Date": "2025-08-21",
+        "Predicted_Solar_Irradiance": 14.798101906917907
+    },
+    {
+        "Date": "2025-08-22",
+        "Predicted_Solar_Irradiance": 14.798101863844195
+    },
+    {
+        "Date": "2025-08-23",
+        "Predicted_Solar_Irradiance": 14.798101884383271
+    },
+    {
+        "Date": "2025-08-24",
+        "Predicted_Solar_Irradiance": 14.798101940322638
+    },
+    {
+        "Date": "2025-08-25",
+        "Predicted_Solar_Irradiance": 14.798101996177621
+    },
+    {
+        "Date": "2025-08-26",
+        "Predicted_Solar_Irradiance": 14.798102073052164
+    },
+    {
+        "Date": "2025-08-27",
+        "Predicted_Solar_Irradiance": 14.798102153845292
+    },
+    {
+        "Date": "2025-08-28",
+        "Predicted_Solar_Irradiance": 14.798102221977715
+    },
+    {
+        "Date": "2025-08-29",
+        "Predicted_Solar_Irradiance": 14.798102216951406
+    },
+    {
+        "Date": "2025-08-30",
+        "Predicted_Solar_Irradiance": 14.798102204678571
+    },
+    {
+        "Date": "2025-08-31",
+        "Predicted_Solar_Irradiance": 14.798102137640782
+    },
+    {
+        "Date": "2025-09-01",
+        "Predicted_Solar_Irradiance": 14.79810212269075
+    },
+    {
+        "Date": "2025-09-02",
+        "Predicted_Solar_Irradiance": 14.798102095356256
+    },
+    {
+        "Date": "2025-09-03",
+        "Predicted_Solar_Irradiance": 14.798102081178925
+    },
+    {
+        "Date": "2025-09-04",
+        "Predicted_Solar_Irradiance": 14.798102095842253
+    },
+    {
+        "Date": "2025-09-05",
+        "Predicted_Solar_Irradiance": 14.798102126102108
+    },
+    {
+        "Date": "2025-09-06",
+        "Predicted_Solar_Irradiance": 14.79810211939403
+    },
+    {
+        "Date": "2025-09-07",
+        "Predicted_Solar_Irradiance": 14.798102147633529
+    },
+    {
+        "Date": "2025-09-08",
+        "Predicted_Solar_Irradiance": 14.798102109038908
+    },
+    {
+        "Date": "2025-09-09",
+        "Predicted_Solar_Irradiance": 14.79810204380739
+    },
+    {
+        "Date": "2025-09-10",
+        "Predicted_Solar_Irradiance": 14.798101982859038
+    },
+    {
+        "Date": "2025-09-11",
+        "Predicted_Solar_Irradiance": 14.798101952257312
+    },
+    {
+        "Date": "2025-09-12",
+        "Predicted_Solar_Irradiance": 14.798101946119473
+    },
+    {
+        "Date": "2025-09-13",
+        "Predicted_Solar_Irradiance": 14.798101931204727
+    },
+    {
+        "Date": "2025-09-14",
+        "Predicted_Solar_Irradiance": 14.798101874624706
+    },
+    {
+        "Date": "2025-09-15",
+        "Predicted_Solar_Irradiance": 14.798101860812778
+    },
+    {
+        "Date": "2025-09-16",
+        "Predicted_Solar_Irradiance": 14.79810188869385
+    },
+    {
+        "Date": "2025-09-17",
+        "Predicted_Solar_Irradiance": 14.798101941299564
+    },
+    {
+        "Date": "2025-09-18",
+        "Predicted_Solar_Irradiance": 14.798101981793693
+    },
+    {
+        "Date": "2025-09-19",
+        "Predicted_Solar_Irradiance": 14.798102009949105
+    },
+    {
+        "Date": "2025-09-20",
+        "Predicted_Solar_Irradiance": 14.798101992379074
+    },
+    {
+        "Date": "2025-09-21",
+        "Predicted_Solar_Irradiance": 14.798101968398129
+    },
+    {
+        "Date": "2025-09-22",
+        "Predicted_Solar_Irradiance": 14.798101962445045
+    },
+    {
+        "Date": "2025-09-23",
+        "Predicted_Solar_Irradiance": 14.79810192064383
+    },
+    {
+        "Date": "2025-09-24",
+        "Predicted_Solar_Irradiance": 14.798101856957913
+    },
+    {
+        "Date": "2025-09-25",
+        "Predicted_Solar_Irradiance": 14.79810179805122
+    },
+    {
+        "Date": "2025-09-26",
+        "Predicted_Solar_Irradiance": 14.79810172516683
+    },
+    {
+        "Date": "2025-09-27",
+        "Predicted_Solar_Irradiance": 14.798101692447744
+    },
+    {
+        "Date": "2025-09-28",
+        "Predicted_Solar_Irradiance": 14.798101705046335
+    },
+    {
+        "Date": "2025-09-29",
+        "Predicted_Solar_Irradiance": 14.798101710169902
+    },
+    {
+        "Date": "2025-09-30",
+        "Predicted_Solar_Irradiance": 14.798101656922682
+    }
+]
